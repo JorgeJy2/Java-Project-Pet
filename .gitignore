@@ -1,5 +1,4 @@
 bin/*
 doc/*
-errors_report/err_dao.txt
 *.class
 .settings/*
