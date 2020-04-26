@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="false" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="connection" project="Mascotas-java" file="/Mascotas-java/src/connection" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="26" y="11"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="controller" project="Mascotas-java" file="/Mascotas-java/src/controller" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="157" y="21"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="controller.validator" project="Mascotas-java" 
+    file="/Mascotas-java/src/controller/validator" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="227" y="111"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="4" language="java" name="dao" project="Mascotas-java" file="/Mascotas-java/src/dao" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="317" y="26"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="5" language="java" name="gui" project="Mascotas-java" file="/Mascotas-java/src/gui" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="502" y="56"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="6" language="java" name="gui.content.consult" project="Mascotas-java" 
+    file="/Mascotas-java/src/gui/content/consult" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="517" y="127"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="7" language="java" name="gui.content.pet" project="Mascotas-java" 
+    file="/Mascotas-java/src/gui/content/pet" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="505" y="195"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="8" language="java" name="gui.content.veterinarian" project="Mascotas-java" 
+    file="/Mascotas-java/src/gui/content/veterinarian" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="529" y="265"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="9" language="java" name="gui.dialogs" project="Mascotas-java" file="/Mascotas-java/src/gui/dialogs" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="499" y="340"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="10" language="java" name="gui.resource" project="Mascotas-java" file="/Mascotas-java/src/gui/resource" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="501" y="414"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="11" language="java" name="mainRun" project="Mascotas-java" file="/Mascotas-java/src/mainRun" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="17" y="480"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="12" language="java" name="model.dto" project="Mascotas-java" file="/Mascotas-java/src/model/dto" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="706" y="65"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="13" language="java" name="model.list" project="Mascotas-java" file="/Mascotas-java/src/model/list" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="710" y="137"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="14" language="java" name="model.list.filter" project="Mascotas-java" 
+    file="/Mascotas-java/src/model/list/filter" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="108" x="688" y="174"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="15" language="java" name="model.list.interador" project="Mascotas-java" 
+    file="/Mascotas-java/src/model/list/interador" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="755" y="273"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="16" language="java" name="report" project="Mascotas-java" file="/Mascotas-java/src/report" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="888" y="71"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="17" language="java" name="report.decoratorComponent" project="Mascotas-java" 
+    file="/Mascotas-java/src/report/decoratorComponent" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="968" y="160"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="false">    
+    <attributes public="false" package="true" protected="false" private="false" static="false"/>    
+    <operations public="false" package="true" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
